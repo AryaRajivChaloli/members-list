@@ -3,12 +3,14 @@
 ## Format
 
 > Please adhere to this format when adding your name to this list  
-> **Name**: Dhruv Menon `<-- Don't forget to add two spaces here`  
-**SRN**: PES1201902219 `<-- Don't forget to add two spaces here`  
-**Link to Profile**: dhruv017 github.com/dhruv017  `<-- Don't forget to add two spaces here` <br/>
-**About Me**: Still new to everything happening around and I'm pretty confused and excited. I love shawarmas and cavins and I'm always broke. Hoping to learn and contribute something  to opensource.  
-Write a short,fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
+
+**Name**: [Your Full Name Here] `<-- Don't forget to add two spaces here`  
+**SRN**: [SRN] `<-- Don't forget to add two spaces here`  
+**Link to Profile**: `[name](https://github.com/[name])`  `<-- Don't forget to add two spaces here` <br/>
+**About Me**:  `<-- Don't forget to add two spaces here`<br/>
+Write a short, fun description about yourself. Please be genuine and light-hearted. This isn't a flexing contest.
 Also don't be a cop-out by saying something like "I am happy/looking forward to be in PESOS". Tell us something we don't know
+
 
 ---  
 
@@ -17,6 +19,100 @@ Also don't be a cop-out by saying something like "I am happy/looking forward to 
 ## The list 
 
 [Add your details over here]`← Don't remove this line`
+
+**Name**: Guhan k  
+**SRN**: PES1UG19CS171   
+**Link to Profile**: [kabbina](https://github.com/kabbina)  
+**About Me**:  Just a noob who likes games and anime.  
+
+**Name**: Aanchal Narendran.  
+**SRN**: PES1UG19CS006   
+**Link To Profile**: [aanchal-n](https://github.com/aanchal-n)  
+**About Me**: Hey, I'm Aanchal. I donut share food but happily share code. Not entirely new to the open source world, but extremely terrified of contributing :).  
+
+**Name**: Pranav Rajnish  
+**SRN**: PES1UG19CS344  
+**Link To Profile**: [Deadlypenguin2312](https://github.com/Deadlypenguin2312)  
+**About Me**: Hey! I love listening to music(rock, alt, and a little bit of everything else), gaming and I sing sometimes.Here to learn and contribute :^).  
+
+**Name**:Divyansh Raina  
+**SRN**:PES1UG19CS149  
+**Link to Profile**:[QuantumBoy-729](https://github.com/QuantumBoy-729)  
+**About Me**:About me, ok - I love physics and music!! I am an example for a perfect Nightowl and like cats and dogs equally :- )  
+
+**Name**: Sathi Sreyahsri  
+**SRN**: PES1UG19CS434  
+**Link to Profile**: [sreya-01](https://github.com/sreya-01)  
+**About Me**: Hey there! I'm a day dreamer! overthinker!, I like listening to music, drawing and composing poems! :). Apart from that I'm a newbie to FOSS, hopefully I will be doing some great stuff ;). 
+
+**Name**: Abhishek V  
+**SRN**: PES2UG19CS012  
+**Link to Profile**: [Abhishek4848](https://github.com/Abhishek4848)  
+**About Me**: Debugging...
+
+**Name**: Ananya Uppal  
+**SRN**: PES1UG19CS058  
+**Link to Profile**: [ananya2712](https://github.com/ananya2712)  
+**About Me**:  A professional binge-watcher who loves listening to music (I also sing). Can't wait to contribute to this community my terrible jokes and considerable awkwardness with a splash of coding :)
+
+**Name**: Nihal Ramaswamy  
+**SRN**: PES1UG19CS297  
+**Link to Profile**: [Nihal Ramaswamy](https://github.com/nihal-ramaswamy)  
+**About Me**:   
+Just another programmer.  
+
+**Name**: Kartika Nair  
+**SRN**: PES1UG19CS213  
+**Link to Profile**: [kartika-nair](https://github.com/kartika-nair)  
+**About Me**:  Hi, I'm Kartika and my sleep schedule doesn't match the time zone I live in.  
+
+**Name**: Niranjan Bhaskar K  
+**SRN**: PES1201801486  
+**Link to Profile**: [CaelestisZ](https://github.com/CaelestisZ)  
+**About Me**:  
+Hi! I go by the handle "CaelestisZ". I enjoy creating elegant responsive websites and developing android applications. Oh yeah, I also have prior experience building (/improving/overclocking) Linux-based kernels for the Qualcomm Snapdragon and Samsung Exynos devices. 
+
+**Name**: Himanshu Jain  
+**SRN**: PES1201802828  
+**Link to Profile**: [himanshujain171](https://github.com/himanshujain171)  
+**About Me**: Data Science enthusiast. Backend Developer. Coding. Technology. Oh and also can't forget my food :)) Foodie. Love contributing to open source :>)  
+
+**Name**: Adithya Bhat P R  
+**SRN**: PES1201800304  
+**Link to Profile**: [AdithyaBhatPR](https://github.com/AdithyaBhatPR)  
+**About Me**:  
+Hi! I go by the handle "AdithyaBhatPR", I am a passionate learner. I like pencil-sketching. Contributing to Open-source is amazing and in my opinion is the best way to show your skill.  
+
+**Name**: Sowmya M    
+**SRN**: PES1UG19CS497    
+**Link to Profile**: [Sowmya7501](https://github.com/Sowmya7501)   
+**About Me**: I am a music lover and a cyber security enthusiast.I feel everything is boring except coding and obviously netflix;).  
+
+
+**Name**: Ritik Hariani  
+**SRN**: PES1201801558  
+**Link to Profile**: [Dev](https://github.com/RITIKHARIANI)  
+**About Me**:  Machine Learning enthusiast. Web developer. Cyber security enthusiast. Golfer. Foodie. Karate Champion.
+
+**Name**: Dev Mashru  
+**SRN**: PES1UG19CS136   
+**Link to Profile**: [Dev](https://github.com/DevMashru)  
+**About Me**:  Custom ROM developer and Cyber Security enthusiast. TechGeek. I use arch btw ;)
+
+**Name**: Manish Reddy M   
+**SRN**: PES1UG19CS262   
+**Link to Profile**: [Manish](https://github.com/Manish-22)   <br/>
+**About Me**: Hey there I love algorithms and I am new to open source. Hoping to learn a lot here! 
+
+**Name**: Mihir M Kestur  
+**SRN**: PES1UG19CS272    
+**Link to Profile**: [mihirkestur](https://github.com/mihirkestur)  
+**About Me**:  I like biking and watching cricket, enjoy a good coding challenge. 
+
+**Name**: Vishnu R Dixit  
+**SRN**: PES1201801448    
+**Link to Profile**: [Rvdixit23](https://github.com/Rvdixit23)  
+**About Me**:  Emulator gamer, jack of all trades and in the hunt for the right level of abstraction for me.
 
 **Name**: Arya Rajiv Chaloli  
 **SRN**: PES1201700253  
@@ -916,3 +1012,119 @@ All about the Flow. The Logic. Somebody who cares a ton about what is going on a
 **Link to Profile**: [Vishnu-S-Redy](https://github.com/Vishnu-S-Reddy)  
 **About Me**: Trying to learn. Here to learn and improve my resume. 
 
+**Name**: Sakshi Vattikuti  
+**SRN**: PES2201800157
+**Link to Profile**: [sakshi2912](https://github.com/sakshi2912)  
+**About Me**: I don't know how to respond to compliments. 
+
+**Name**: Kunal Bhat    
+**SRN**: PES1UG19CS237    
+**Link to Profile**: [panzerox123](https://github.com/panzerox123)  
+**About Me**:  <br/>
+Not really that interesting of a person. I do enjoy the occasional video game (Witcher 3 and Borderlands 2 being my current favorites). I'm as generic of a programmer as it gets, I like Linux, ThinkPads and coffee.  
+
+**Name**: Hrishit Chaudhuri  
+**SRN**: PES1201900050  
+**Link to Profile**: [hrishitchaudhuri](https://github.com/hrishitchaudhuri)  
+**About Me**:  Always on the lookout for books with fancy covers. Penguin Modern Classics is a blessing.
+
+**Name**:  Smruthi BT   
+**SRN**:  PES1201900311  
+**Link to Profile**:  [smruthibt](https://github.com/smruthibt)  
+**About Me**:  ML and AI enthusiast. Also a classical dancer, mostly here to embrace diversity and meet lotsss of new people, and to contribute of course!!!
+
+**Name**: Abhishek Mishra  
+**SRN**: PES2UG19CS009  
+**Link to Profile**: [abhishek-pes](https://github.com/abhishek-pes)  
+**About Me**:  New to open-source and hoping to learn something useful. Was really bored so better open-source contribution than doing nothing.
+
+**Name**: Sujan CR  
+**SRN**: PES1201801286  
+**Link to Profile**: [sujanchegu](https://github.com/[sujanchegu])   <br/>
+**About Me**: I am a security enthusiast & part time CTFer. All my passion is Math, Linux, C++ & Vim.  <br/>
+
+**Name**: Sathvik Rao MP
+**SRN**: PES1UG19CS436  
+**Link to Profile**: [SathvikRao](https://github.com/SathvikRao)  
+**About Me**: I love to learn and experiment with new stuff.I am very curious.Love being part of pes opensource community.Apart from that i love history and Classic Rock.
+
+**Name**: Suvigya Jain    
+**SRN**: PES1201901140  
+**Link to Profile**: [SuvigyaJain1](https://github.com/SuvigyaJain1)   <br/>
+**About Me**: Looking to learn more about and contribute a lot to open source. Tell me if you have any interesting projects in python you need contributors for  <br/>
+
+**Name**:Anushree Govindarajan
+**SRN**:PES1201900786
+**Link to Profile**:https://github.com/AnushreeG2001
+**About Me** Looking forward to learn new things  !
+
+**Name**: Sudhanva Rajesh  
+**SRN**: PES1UG19CS512  
+**Link to Profile**: [Sudhanvarajesh](https://github.com/sudhanvarajesh)   <br/>
+**About Me**: new to all of this, cant wait to learn more and contribute! :)  <br/>
+
+**Name**: Rahul D. Makhija  
+**SRN**: PES1UG19CS368  
+**Link to Profile**: [rahulmakhija](https://github.com/rahulmakhija30)   <br/>
+**About Me**: Keen learner :D  <br/>
+
+**Name**: Vaibhav Raj     
+**SRN**: PES1UG19CS554     
+**Link to Profile**: [Darknight745](https://github.com/Darknight745)  <br/>
+**About Me**: I like learning about Computer Networks and Cyber Security and yeah I am a Batman fan.  <br/>
+
+**Name**: Manjiri Pathak
+**SRN**: PES1UG19CS263
+**Link to Profile**: [manjiripathak16](https://github.com/manjiripathak16)  <br/>
+**About Me**: Annoyingly optimistic, loves coding, I write poetry and I also sing. Excited to contribute and learn new things at every turn :)  <br/>
+
+**Name**: Sathwik Acharya  
+**SRN**: PES1UG19CS437  
+**Link to Profile**: [sathwikacharya](https://github.com/sathwikacharya)  
+**About Me**: Witty, Huge fan of football, an enthusiastic drummer and always on the hunt for something new  
+
+**Name**: Vineeth Kumar  
+**SRN**: PES2UG19ME056  
+**Link to Profile**: [2vergent](https://github.com/2vergent)  <br/>
+**About Me**:  Open-minded, movie-buff, PC enthusiast, and coding has always been a ritualistic practice for me.  <br/>
+
+**Name**: Aayush  
+**SRN**: PES1201801033  
+**Link to Profile**: [NaikAayush](https://github.com/NaikAayush)  <br/>
+**About Me**: Love working on out of reach ideas, cause it helps me push my limits. I spend more time on YouTube than on sleep, and pass time by flying drones.   <br/>
+
+**Name**: Prajwal A <br/>
+**SRN**: PES1UG19CS334 <br/>
+**Link to Profile**: [LawJarp-A](https://github.com/LawJarp-A)  <br/>
+**About Me**:  I love to code, I love puzzles and challenges, and I enjoy contributing and creating open source code among a lot of lot of things in life. I am thorough bookaholic and enjoy playing the guitar sometimes.<br/>
+
+**Name**: Mrudhulraj Natarajan <br/>
+**SRN**: PES1UG19CS281 <br/>
+**Link to Profile**: [Mrudhulraj](https://github.com/Mrudhulraj)  <br/>
+**About Me**:  Just a person who admires NLP and Image processing. Tbh want to contribute a lot to Open Source and active user in Medium(https://medium.com/@mrudhulraj.n) Btw huge bball fan and interested a little in photography.<br/>
+
+**Name**: Amritesh <br/>
+**SRN**: PES1UG19CS056 <br/>
+**Link to Profile**: [ammrit2312](https://github.com/ammrit2312)  <br/>
+**About Me**:  A person who wants to make something that will revolutionize an industry. Always want to learn new things.<br/>
+
+**Name**: Mayank Agrawal  
+**SRN**: PES1UG19EE060  <br/>
+**Link to Profile**: [Mayank1403](https://github.com/Mayank1403)   <br/>
+**About Me**: Keen learner :D. Like to design and implement FrontEnd for Web Apps. <br/>
+
+**Name**: Om Amitesh  <br/> 
+**SRN**: PES1UG19CS310  <br/> 
+**Link to Profile**: [Om-Amitesh](https://github.com/Om-Amitesh)  <br/>
+**About Me**: I just love experimenting around and finding creative answers! Also Im up for blogging on medium(just started tho, https://medium.com/@omamitesh). First shot at open source so, wish me luck! xD<br/>
+
+**Name**: Royston E Tauro  <br/> 
+**SRN**: PES1UG19CS396  <br/> 
+**Link to Profile**: [lucasace](https://github.com/lucasace)  <br/>
+**About Me**: Fascinated by Computer Vision!! Just started Open-Source and tbh a bit terrified xD <br/>
+
+
+**Name**: Akshay B  <br/> 
+**SRN**: PES1UG19CS044  <br/> 
+**Link to Profile**: [AB-Law](https://github.com/AB-Law)  <br/>
+**About Me**:  A huge football fan. Likes watching thrillers/drama movies. Also a little anxious but looking to contribute to something  <br/>
